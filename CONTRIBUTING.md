@@ -24,7 +24,7 @@ Thank you for your interest in improving the Tauri 2 Claude Skill Package.
 
 ### Commit Message Format
 
-Use Conventional Commits: `feat:`, `fix:`, `docs:`, `refactor:`, `test:`, `chore:`
+Use the commit format of the repository you are contributing to.
 
 Phase commits use the format: `"Phase X.Y: [action] [subject]"`
 
